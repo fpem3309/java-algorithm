@@ -1,4 +1,4 @@
-package algorithm.greedy;
+package silver.greedy;
 
 import java.util.Scanner;
 
